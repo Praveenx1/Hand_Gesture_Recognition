@@ -1,4 +1,4 @@
-# hand gesture recognition with OpenCV and MediaPipe
+# Hand Gesture recognition with OpenCV and MediaPipe
 
 This is a simple example of how landmarks identified by mediapipe can be used as training data for gesture recognition.
 
