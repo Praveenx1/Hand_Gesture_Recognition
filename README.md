@@ -1,4 +1,4 @@
-# Hand Gesture recognition with OpenCV and MediaPipe
+# Hand Gesture recognition using MediaPipe
 
 This example showcases the utilization of landmarks identified by the MediaPipe library for training a gesture recognition model. Upon running the 
     `python train.py` script, 
